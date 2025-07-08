@@ -27,7 +27,7 @@ class Mascota:
     def set_color(self, nuevo_color):
         self.__color = nuevo_color
 
-    # Método común (será sobrescrito por subclases)
+    # Metodo común (será sobrescrito por subclases)
     def hacer_sonido(self):
         return "La mascota hace un sonido."
 
@@ -38,7 +38,7 @@ class Perro(Mascota):
         super().__init__(nombre, edad_meses, color)  # Herencia
         self.raza = raza
 
-    # Polimorfismo: redefinimos el método
+    # Polimorfismo: redefinimos el metodo
     def hacer_sonido(self):
         return "¡Guau guau!"
 
