@@ -1,0 +1,62 @@
+[
+    {
+        "id": "001",
+        "nombre": "Disco Solido SSD",
+        "cantidad": 15,
+        "precio": 20.99
+    },
+    {
+        "id": "002",
+        "nombre": "Cámara tp-link C310",
+        "cantidad": 6,
+        "precio": 36.5
+    },
+    {
+        "id": "003",
+        "nombre": "Mouse Inalambrico BP-K1",
+        "cantidad": 10,
+        "precio": 6.25
+    },
+    {
+        "id": "004",
+        "nombre": "Tarjeta Gráfica GTX 750",
+        "cantidad": 3,
+        "precio": 79.99
+    },
+    {
+        "id": "005",
+        "nombre": "Tarjeta Micro SD 256GB",
+        "cantidad": 20,
+        "precio": 23.75
+    },
+    {
+        "id": "006",
+        "nombre": "Regulador de Voltaje 2000VA",
+        "cantidad": 5,
+        "precio": 15.99
+    },
+    {
+        "id": "007",
+        "nombre": "Teclado PC Inalambrico AOC KM 210",
+        "cantidad": 10,
+        "precio": 13.5
+    },
+    {
+        "id": "008",
+        "nombre": "Pasta Térmica GAMEMAX",
+        "cantidad": 2,
+        "precio": 7.5
+    },
+    {
+        "id": "009",
+        "nombre": "Disco Mecánico 2.5 SEAGATE 1TB",
+        "cantidad": 14,
+        "precio": 38.6
+    },
+    {
+        "id": "010",
+        "nombre": "Placa Madre H310",
+        "cantidad": 1,
+        "precio": 62.99
+    }
+]
