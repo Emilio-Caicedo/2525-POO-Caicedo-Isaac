@@ -1,0 +1,92 @@
+{
+    "001": {
+        "id": "001",
+        "nombre": "Disco Solido SSD",
+        "cantidad": 10,
+        "precio": 20.99
+    },
+    "002": {
+        "id": "002",
+        "nombre": "Cámara Tp-Link C310",
+        "cantidad": 10,
+        "precio": 36.5
+    },
+    "003": {
+        "id": "003",
+        "nombre": "Mouse Inalambrico BP-K1",
+        "cantidad": 8,
+        "precio": 6.0
+    },
+    "004": {
+        "id": "004",
+        "nombre": "Tarjeta Gráfica GTX 750",
+        "cantidad": 1,
+        "precio": 79.99
+    },
+    "005": {
+        "id": "005",
+        "nombre": "Tarjeta Micro SD 256GB",
+        "cantidad": 12,
+        "precio": 23.5
+    },
+    "006": {
+        "id": "006",
+        "nombre": "Regulador de Voltaje 2000VA",
+        "cantidad": 3,
+        "precio": 15.99
+    },
+    "007": {
+        "id": "007",
+        "nombre": "Teclado PC Inalambrico AOC KM 210",
+        "cantidad": 5,
+        "precio": 13.5
+    },
+    "008": {
+        "id": "008",
+        "nombre": "Pasta Térmica GAMEMAX",
+        "cantidad": 0,
+        "precio": 7.5
+    },
+    "009": {
+        "id": "009",
+        "nombre": "Disco Mecánico 2.5 SEAGATE 1TB",
+        "cantidad": 10,
+        "precio": 38.6
+    },
+    "010": {
+        "id": "010",
+        "nombre": "Placa Madre H310",
+        "cantidad": 6,
+        "precio": 60.0
+    },
+    "011": {
+        "id": "011",
+        "nombre": "Convertidor HDMI a VGA",
+        "cantidad": 5,
+        "precio": 4.99
+    },
+    "012": {
+        "id": "012",
+        "nombre": "Fire Tv Stick ",
+        "cantidad": 10,
+        "precio": 40.5
+    },
+    "013": {
+        "id": "013",
+        "nombre": "Cable HDMI 1080P",
+        "cantidad": 8,
+        "precio": 4.99
+    },
+    "014": {
+        "id": "014",
+        "nombre": "Cable de Red CAT5E 50M",
+        "cantidad": 20,
+        "precio": 7.99
+    },
+    "015": {
+        "id": "015",
+        "nombre": "Cable de Poder Tipo 8",
+        "cantidad": 5,
+        "precio": 1.0
+    }
+}
