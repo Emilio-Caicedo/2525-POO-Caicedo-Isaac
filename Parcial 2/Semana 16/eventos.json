@@ -1,0 +1,44 @@
+{
+    "abf14990-3bae-4dbe-858e-9e5f96b3e723": {
+        "fecha": "2025-10-06",
+        "hora": "14:00",
+        "descripcion": "Examen Segundo Parcial - Estadistica",
+        "completado": false
+    },
+    "8ba5621c-8fa6-4b75-b2e3-6125e8e4f33a": {
+        "fecha": "2025-10-07",
+        "hora": "14:00",
+        "descripcion": "Examen Segundo Parcial - Programación",
+        "completado": false
+    },
+    "e271bd57-b64d-4af2-bb76-cb8172c65f66": {
+        "fecha": "2025-10-08",
+        "hora": "14:00",
+        "descripcion": "Examaen Segundo Parcial - Sistemas Operativos",
+        "completado": false
+    },
+    "8f12a25f-abdf-4f26-9914-5e2508415c11": {
+        "fecha": "2025-10-09",
+        "hora": "14:00",
+        "descripcion": "Examen Segundo Parcial - Matematicas II",
+        "completado": false
+    },
+    "d1b5626f-b446-4bcb-b31f-1503743fbf0e": {
+        "fecha": "2025-10-10",
+        "hora": "14:00",
+        "descripcion": "Examen Segundo Parcial - Fisica II",
+        "completado": false
+    },
+    "9e7609eb-6615-4174-af87-4426ccb782b7": {
+        "fecha": "2025-10-04",
+        "hora": "07:30",
+        "descripcion": "Ultima clase de Ecuentro de Segundo Semestre",
+        "completado": true
+    },
+    "febdb7d2-4bf8-4243-861b-9279c7bc6ed1": {
+        "fecha": "2025-10-05",
+        "hora": "18:30",
+        "descripcion": "Evaluación de Docentes UEA",
+        "completado": false
+    }
+}
